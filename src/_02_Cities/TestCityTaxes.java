@@ -9,7 +9,7 @@ import org.junit.Test;
 public class TestCityTaxes {
 
 	@Test
-	public void testPrjections() {
+	public void testProjections() {
 		ArrayList<City> cities = new ArrayList<City>();
 		City sd = new SanDiego(1407000, 1.6);
 		City bo = new Boston(673184, 1.2);

@@ -4,7 +4,7 @@ public class Pig extends Animal{
 
 	@Override
 	public void makeNoise() {
-		System.out.println("[insert pig noises here]");
+		System.out.println("Oink");
 		
 	}
 
